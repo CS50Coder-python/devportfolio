@@ -1,18 +1,18 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Satvik Surapaneni",
+  title: "High School Student / Aspiring Software Engineer",
+  description: "Portfolio website of Satvik Surapaneni",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "satviks1208@gmail.com",
+    linkedin: "https://linkedin.com/in/SatvikSurapaneni",
+    github: "https://github.com/SatvikSurapaneni",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
+    "I am a high school student with a passion for AI and healthcare (bioinformatics), and I am looking to develop solutions in that domain/field. I have experience working multiple IT and software roles through internships and other programs",
+  skills: ["Javascript", "React", "Node.js", "Python", "HTML", "CSS"],
+  projects: ["AI MRI Scanner and Diagnosis Model","Website that matches students from low socioeconomic status with accessible extracurriculars", "Game with flappy bird controls" ],
+  experiences: [
     {
       name: "AI Dev Roundup Newsletter",
       description:
