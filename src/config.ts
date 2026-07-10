@@ -69,13 +69,13 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Olentangy High School",
+      degree: "High School Diploma",
+      dateRange: "2023 - 2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated Valedictorian with a 4.65 Weighted GPA and Unweighted GPA of 3.9",
+        "Dean's List for Columbus State Community College for two semesters",
+        "President of Python Club and Science Olympiad Team Officer",
       ],
     },
     {
