@@ -14,58 +14,52 @@ export const siteConfig = {
   projects: ["AI MRI Scanner and Diagnosis Model","Website that matches students from low socioeconomic status with accessible extracurriculars", "Game with flappy bird controls" ],
   experiences: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Bluebird Retirement Services",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Deployed privacy and security protection software across 15+ devices used by senior leadership including Accountants, CFO, and a Business Manager. Updated and configured applications for approx. 20 iPads utilized, improving accessibility within a two week period . Assisted in the modification of  the website for the London branch, allowing for more efficient navigation and overall functionality. Provided on-demand technical support for  staff members",
+          
+          
+          
+      
+      skills: ["React", "Node.js", "AWS", "HTML", "CSS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "North South Foundation",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Mentored hundreds of students in advanced math and science,  preparing them for future competitions and scholarships (100+ hours).",
+    
+      skills: ["Teaching", "Mathematics"],
     },
     {
-      name: "ExtensionKit",
+      name: "StartupMed Hackathon",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Built an app that analyzed MRI scans to suggest diagnosis for brain tumors and streamline workflow.",
+    
+      skills: ["React", "Node.js", "Python", "Machine Learning"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "OHS Python Club",
+      title: "President",
+      dateRange: "Jan 2024 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
+        "Led a 50+ member club, organized biweekly workshops to teach Python and initiated ten long-term passion projects for computer science students looking to create an impact.",
+        "Selected as a winner for the Code for Impact Hackathon.",
         "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "OHS Science Olympiad Team",
+      title: "Team Officer",
+      dateRange: "Jun 2023 - Present",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
+        "Utilized Arduino, C++ programming, and Python to program our systems for the Electric Vehicle and Machines event (state and regional competition)",
+        "2x State Qualifier; 5th place in Regional competition",
         "Collaborated with product team to define technical requirements",
       ],
     },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+    
   ],
   education: [
     {
@@ -78,15 +72,6 @@ export const siteConfig = {
         "President of Python Club and Science Olympiad Team Officer",
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    
   ],
 };
